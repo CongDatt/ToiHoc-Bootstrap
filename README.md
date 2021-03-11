@@ -26,15 +26,15 @@
         mt-1: margin top 4px
     
 ## 4. Responsive
-- Các chuẩn màn hình
-        - xs: extremely small – phone – chiều rộng màn hình nhỏ hơn 576px
-        - sm: small – tablet- máy tính bảng  > 576px
-        - md: medium – laptop  >768px
-        - lg: large màn hình desktop > 992px
-        - xl: extremely large màn hình lớn  > 1200px
+#### Các chuẩn màn hình
++ xs: extremely small – phone – chiều rộng màn hình nhỏ hơn 576px
++ sm: small – tablet- máy tính bảng  > 576px
++ md: medium – laptop  >768px
++ lg: large màn hình desktop > 992px
++ xl: extremely large màn hình lớn  > 1200px
 - Sử dụng trong bootstrap:
-        - container-xm
-        - container-sm
-        - container-md
-        - container-lg
-        - container-xl
+- container-xm
+- container-sm
+- container-md
+- container-lg
+- container-xl
