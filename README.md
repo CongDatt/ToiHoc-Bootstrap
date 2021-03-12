@@ -32,8 +32,12 @@
 + md: medium – laptop  >768px
 + lg: large màn hình desktop > 992px
 + xl: extremely large màn hình lớn  > 1200px
-#### Sử dụng trong bootstrap:
 - container-sm chiều rộng đạt 100 % khi 540px
 - container-md chiều rộng đạt 100 % khi 720px
 - container-lg chiều rộng đạt 100 % khi 960ppx
 - container-xl: chiều rộng đạt 100 % khi 1140px
+
+#### Sử dụng trong bootstrap:
+- col-xs-7 col-sm-6 col-lg-8: lần lượt là số lượng các cột trong mobile, tablet, PC
+
+
